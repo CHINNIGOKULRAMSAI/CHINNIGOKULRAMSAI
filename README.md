@@ -46,10 +46,46 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
 </div>
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CHINNIGOKULRAMSAI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+</p>
+
+<p align="center">
+<img height="170" src="https://streak-stats.demolab.com?user=CHINNIGOKULRAMSAI&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHINNIGOKULRAMSAI&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CHINNIGOKULRAMSAI&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ###
+<h2 data-importer="text" align="left">🚀 Mission Log</h2>
 
 <p data-importer="text" align="left">
-###🚀 Mission Log<br><br>🛡 SMS-Guard-AIG<br>Mission: Intelligent SMS Spam Detection<br>Stack: NLP • FastAPI • Docker • Azure<br><br>🚦 AI Traffic Predictor<br>Mission: Real-Time Traffic Forecasting<br>Stack: Machine Learning • Flask • MLOps<br><br>❤️ Cardio Risk Prediction<br>Mission: Healthcare Risk Assessment<br>Stack: Machine Learning • Data Analysis</p>
+<br><br>🛡 SMS-Guard-AIG<br>Mission: Intelligent SMS Spam Detection<br>Stack: NLP • FastAPI • Docker • Azure<br><br>🚦 AI Traffic Predictor<br>Mission: Real-Time Traffic Forecasting<br>Stack: Machine Learning • Flask • MLOps<br><br>❤️ Cardio Risk Prediction<br>Mission: Healthcare Risk Assessment<br>Stack: Machine Learning • Data Analysis</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/CHINNIGOKULRAMSAI/CHINNIGOKULRAMSAI/output/pacman-contribution-graph.svg"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/CHINNIGOKULRAMSAI/CHINNIGOKULRAMSAI/output/github-contribution-grid-snake.svg"/>
+</p>
+
+![Python]
+![FastAPI]
+![Docker]
+![Azure]
+![Git]
+![Machine Learning]
+![NLP]
+![Generative AI]
+![LangChain]
+![Hugging Face]
 
 ###
 
