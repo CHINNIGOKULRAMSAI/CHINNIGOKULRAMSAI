@@ -46,21 +46,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
 </div>
 
-###
+<h2 data-importer="text" align="left">GitHub Stats</h2>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CHINNIGOKULRAMSAI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+</p>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/CHINNIGOKULRAMSAI/CHINNIGOKULRAMSAI/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/CHINNIGOKULRAMSAI/CHINNIGOKULRAMSAI/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h2 data-importer="text" align="left">GitHub Streak</h2>
+<p align="center">
+<img height="170" src="https://streak-stats.demolab.com?user=CHINNIGOKULRAMSAI&theme=tokyonight&hide_border=true"/>
+</p>
+
+<h2 data-importer="text" align="left">Top Languages</h2>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHINNIGOKULRAMSAI&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<h2 data-importer="text" align="left">Activity Graph</h2>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CHINNIGOKULRAMSAI&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<h2 data-importer="text" align="left">Contribution</h2>
+<p align="center">
+<img src="https://raw.githubusercontent.com/CHINNIGOKULRAMSAI/CHINNIGOKULRAMSAI/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ###
 <h2 data-importer="text" align="left">🚀 Mission Log</h2>
+
 <p data-importer="text" align="left">
 <br><br>🛡 SMS-Guard-AIG<br>Mission: Intelligent SMS Spam Detection<br>Stack: NLP • FastAPI • Docker • Azure<br><br>🚦 AI Traffic Predictor<br>Mission: Real-Time Traffic Forecasting<br>Stack: Machine Learning • Flask • MLOps<br><br>❤️ Cardio Risk Prediction<br>Mission: Healthcare Risk Assessment<br>Stack: Machine Learning • Data Analysis</p>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/CHINNIGOKULRAMSAI/CHINNIGOKULRAMSAI/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
