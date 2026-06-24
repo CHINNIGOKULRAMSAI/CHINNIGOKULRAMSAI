@@ -51,6 +51,18 @@
 <p data-importer="text" align="left">
 ###🚀 Mission Log<br><br>🛡 SMS-Guard-AIG<br>Mission: Intelligent SMS Spam Detection<br>Stack: NLP • FastAPI • Docker • Azure<br><br>🚦 AI Traffic Predictor<br>Mission: Real-Time Traffic Forecasting<br>Stack: Machine Learning • Flask • MLOps<br><br>❤️ Cardio Risk Prediction<br>Mission: Healthcare Risk Assessment<br>Stack: Machine Learning • Data Analysis</p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CHINNIGOKULRAMSAI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+  <img height="170" src="https://streak-stats.demolab.com?user=CHINNIGOKULRAMSAI&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHINNIGOKULRAMSAI&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 ###
 
 <div data-importer="socials" align="left">
