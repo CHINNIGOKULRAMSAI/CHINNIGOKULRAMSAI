@@ -57,11 +57,6 @@
 </p>
 
 
-<h2 data-importer="text" align="left">Activity Graph</h2>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CHINNIGOKULRAMSAI&theme=tokyo-night&hide_border=true"/>
-</p>
-
 <h2 data-importer="text" align="left">📈 Contribution Graph</h2>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHINNIGOKULRAMSAI&theme=tokyo-night&hide_border=true"/>
