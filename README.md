@@ -1,96 +1,39 @@
-# Hey there! 👋
+<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
-I'm **Gokul Ram Sai**, an AI & Data Science student from India.
+###
 
-I build Machine Learning, NLP, Generative AI and MLOps applications that solve real-world problems.
+<p data-importer="text" align="left">My name is Chinni Gokul Ram Sai and I'm a AI Engineer, from ....</p>
 
-From training ML models to deploying production-ready systems using FastAPI, Docker and Azure, I enjoy building complete end-to-end AI solutions.
+###
 
-## 🚀 About Me
+<h2 data-importer="text" align="left">About me</h2>
 
-🎓 B.Tech Artificial Intelligence & Data Science
+###
 
-🏫 Saveetha University, Chennai
+<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-💻 Machine Learning & NLP Developer
+###
 
-🐳 Docker & MLOps Enthusiast
+<h2 data-importer="text" align="left">I code with</h2>
 
-☁️ Azure Cloud Deployment
+###
 
-🤖 Exploring Agentic AI & AI Automation
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
-📚 Currently Learning:
-- Agentic AI
-- LangGraph
-- Multi-Agent Systems
-- Advanced MLOps
-
-- ## 🛠 Tech Stack
-
-### Languages
-Python • SQL • JavaScript • C
-
-### AI & Machine Learning
-Machine Learning
-NLP
-Scikit-Learn
-Feature Engineering
-Model Evaluation
-
-### Generative AI
-LangChain
-Hugging Face
-Prompt Engineering
-RAG
-
-### Backend
-FastAPI
-REST APIs
-
-### Deployment
-Docker
-Azure
-Git
-GitHub
-
-### Frontend
-HTML
-CSS
-Tailwind CSS
-JavaScript
-
-## 🌟 Featured Projects
-
-🛡️ SMS-Guard-AIG
-Production-grade NLP spam detection system using FastAPI, Docker and Azure.
-
-📰 Fake News Detection NLP
-Machine learning system for fake news classification.
-
-😊 Sentiment Analysis NLP
-NLP-powered sentiment classification system.
-
-🫀 CardioRisk-AIG
-Machine learning solution for cardiovascular disease prediction.
-
-🎓 Academic Score Predictor
-Predictive analytics platform for student performance forecasting.
-
-## 📊 GitHub Analytics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=CHINNIGOKULRAMSAI&show_icons=true&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=CHINNIGOKULRAMSAI&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHINNIGOKULRAMSAI&layout=compact&theme=tokyonight)
-
-## 🌐 Connect With Me
-
-📧 chinnigokul43@gmail.com
-
-💻 GitHub
-https://github.com/CHINNIGOKULRAMSAI
-
-🔗 LinkedIn
-(Add your LinkedIn URL)
+###
