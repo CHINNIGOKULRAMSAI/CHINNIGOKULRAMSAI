@@ -49,14 +49,10 @@
 <h2 data-importer="text" align="left">GitHub Stats</h2>
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=CHINNIGOKULRAMSAI&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-</p>
-
-<h2 data-importer="text" align="left">GitHub Streak</h2>
-<p align="center">
+</p><p align="center">
 <img height="170" src="https://streak-stats.demolab.com?user=CHINNIGOKULRAMSAI&theme=tokyonight&hide_border=true"/>
 </p>
 
-<h2 data-importer="text" align="left">Top Languages</h2>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHINNIGOKULRAMSAI&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
@@ -66,16 +62,12 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHINNIGOKULRAMSAI&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<h2 data-importer="text" align="left">Contribution</h2>
-<p align="center">
-<img src="https://raw.githubusercontent.com/CHINNIGOKULRAMSAI/CHINNIGOKULRAMSAI/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ###
 <h2 data-importer="text" align="left">🚀 Mission Log</h2>
 
 <p data-importer="text" align="left">
-<br><br>🛡 SMS-Guard-AIG<br>Mission: Intelligent SMS Spam Detection<br>Stack: NLP • FastAPI • Docker • Azure<br><br>🚦 AI Traffic Predictor<br>Mission: Real-Time Traffic Forecasting<br>Stack: Machine Learning • Flask • MLOps<br><br>❤️ Cardio Risk Prediction<br>Mission: Healthcare Risk Assessment<br>Stack: Machine Learning • Data Analysis</p>
+<br>🛡 SMS-Guard-AIG<br>Mission: Intelligent SMS Spam Detection<br>Stack: NLP • FastAPI • Docker • Azure<br><br>🚦 AI Traffic Predictor<br>Mission: Real-Time Traffic Forecasting<br>Stack: Machine Learning • Flask • MLOps<br><br>❤️ Cardio Risk Prediction<br>Mission: Healthcare Risk Assessment<br>Stack: Machine Learning • Data Analysis</p>
 
 ###
 
