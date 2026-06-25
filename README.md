@@ -58,7 +58,7 @@
 
   <img width="10"/>
 
-  <img src="https://img.shields.io/badge/🧠Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/🧠 Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=00E5FF" />
 
   <img width="10"/>
 
