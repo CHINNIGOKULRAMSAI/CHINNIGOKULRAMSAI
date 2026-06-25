@@ -45,7 +45,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
 </div>
-<h2 align="left">🤖 AI Expertise</h2>
+
+<h2 data-importer="text" align="left">🤖 AI Expertise</h2>
 
 <div align="left">
 
@@ -57,7 +58,7 @@
 
   <img width="10"/>
 
-  <img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=00E5FF" />
+  🧠<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=00E5FF" />
 
   <img width="10"/>
 
