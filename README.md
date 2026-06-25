@@ -45,6 +45,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo"  />
 </div>
+<h2 align="left">🤖 AI Expertise</h2>
+
+<div align="left">
+
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+
+  <img width="10"/>
+
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-0F172A?style=for-the-badge&logo=python&logoColor=00E5FF" />
+
+  <img width="10"/>
+
+  <img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=00E5FF" />
+
+  <img width="10"/>
+
+  <img src="https://img.shields.io/badge/Hugging%20Face-1E293B?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
+
+</div>
 
 <h2 data-importer="text" align="left">📊 GitHub Analytics</h2>
 <p align="center">
